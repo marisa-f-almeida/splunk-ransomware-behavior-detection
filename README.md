@@ -13,6 +13,7 @@ This deployment processes operating system and file server audit logs to isolate
 3. **Anomaly Flagging**: Establishes an alert gate that flags an incident as highly suspicious if a non-system process alters multiple file extensions simultaneously.
 
 ---
+<img width="1440" height="900" alt="Screen Shot 2026-09-15 at 8 43 40 PM" src="https://github.com/user-attachments/assets/5dc6b8e9-ba1e-447f-b295-7e7734a2796d" />
 
 ## 💻 Core SPL Ransomware Detection Framework
 
